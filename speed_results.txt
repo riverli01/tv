@@ -1,4 +1,0 @@
-CCTV11,http://125.93.74.27:9002/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0,0.339 MB/s
-北京卫视,http://125.93.74.27:9002/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0,0.339 MB/s
-山西卫视,http://125.93.74.27:9002/tsfile/live/0118_2.m3u8?key=txiptv&playlive=1&authid=0,0.339 MB/s
-重庆卫视,http://125.93.74.27:9002/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0,0.339 MB/s
